@@ -1,0 +1,23 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\providecommand{\bysame}{\leavevmode\hbox to3em{\hrulefill}\thinspace}
+\providecommand{\MR}{\relax\ifhmode\unskip\space\fi MR }
+% \MRhref is called by the amsart/book/proc definition of \MR.
+\providecommand{\MRhref}[2]{%
+  \href{http://www.ams.org/mathscinet-getitem?mr=#1}{#2}
+}
+\providecommand{\href}[2]{#2}
+\begin{thebibliography}{WC{\etalchar{+}}53}
+
+\bibitem[Jay76]{jaynes2000origin}
+Julian Jaynes, \emph{The origin of consciousness in the breakdown of the
+  bicameral mind}, Houghton Mifflin Harcourt, 1976.
+
+\bibitem[MJ38]{10.2307/2785588}
+J.~L. Moreno and H.~H. Jennings, \emph{Statistics of social configurations},
+  Sociometry \textbf{1} (1938), no.~3/4, 342--374.
+
+\bibitem[WC{\etalchar{+}}53]{watson1953structure}
+James~D Watson, Francis Crick, et~al., \emph{A structure for deoxyribose
+  nucleic acid}.
+
+\end{thebibliography}
